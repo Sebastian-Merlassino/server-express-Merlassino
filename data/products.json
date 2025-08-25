@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Casco de Seguridad Evolution",
+    "description": "Casco dieléctrico clase E con arnés regulable.",
+    "code": "LIB-CAS-001",
+    "price": 4500,
+    "status": true,
+    "stock": 120,
+    "category": "Protección Cabeza",
+    "thumbnails": ["/img/casco-evolution.png"]
+  },
+  {
+    "id": 2,
+    "title": "Casco de Seguridad Vulcano",
+    "description": "Casco con ventilación y suspensión de 6 puntos.",
+    "code": "LIB-CAS-002",
+    "price": 5200,
+    "status": true,
+    "stock": 85,
+    "category": "Protección Cabeza",
+    "thumbnails": ["/img/casco-vulcano.png"]
+  },
+  {
+    "id": 3,
+    "title": "Protector Auditivo Copa 27 dB",
+    "description": "Orejeras dieléctricas, atenuación media (27 dB).",
+    "code": "LIB-AUD-027",
+    "price": 3800,
+    "status": true,
+    "stock": 150,
+    "category": "Protección Auditiva",
+    "thumbnails": ["/img/orejera-27.png"]
+  },
+  {
+    "id": 4,
+    "title": "Protector Auditivo Copa 30 dB",
+    "description": "Orejeras para uso industrial pesado (30 dB).",
+    "code": "LIB-AUD-030",
+    "price": 4200,
+    "status": true,
+    "stock": 110,
+    "category": "Protección Auditiva",
+    "thumbnails": ["/img/orejera-30.png"]
+  },
+  {
+    "id": 5,
+    "title": "Tapones Auditivos Reutilizables",
+    "description": "Tapones de silicona con cordón, SNR 25 dB.",
+    "code": "LIB-AUD-TPN",
+    "price": 950,
+    "status": true,
+    "stock": 300,
+    "category": "Protección Auditiva",
+    "thumbnails": ["/img/tapones-reutilizables.png"]
+  },
+  {
+    "id": 6,
+    "title": "Gafas Panorama Antiempañante",
+    "description": "Lente policarbonato, antiempañante, protección UV.",
+    "code": "LIB-OCU-001",
+    "price": 2600,
+    "status": true,
+    "stock": 200,
+    "category": "Protección Ocular",
+    "thumbnails": ["/img/gafas-panorama.png"]
+  },
+  {
+    "id": 7,
+    "title": "Gafas Titan Lente Gris",
+    "description": "Diseño envolvente, anti-rayadura.",
+    "code": "LIB-OCU-002",
+    "price": 2800,
+    "status": true,
+    "stock": 140,
+    "category": "Protección Ocular",
+    "thumbnails": ["/img/gafas-titan.png"]
+  },
+  {
+    "id": 8,
+    "title": "Gafas UVX",
+    "description": "Protección UV, marco liviano de alto confort.",
+    "code": "LIB-OCU-003",
+    "price": 3000,
+    "status": true,
+    "stock": 90,
+    "category": "Protección Ocular",
+    "thumbnails": ["/img/gafas-uvx.png"]
+  },
+  {
+    "id": 9,
+    "title": "Guantes Nitrilo Pesado",
+    "description": "Resistentes a hidrocarburos, agarre mejorado.",
+    "code": "LIB-MAN-NTL",
+    "price": 1800,
+    "status": true,
+    "stock": 210,
+    "category": "Protección Manos",
+    "thumbnails": ["/img/guante-nitrilo.png"]
+  },
+  {
+    "id": 10,
+    "title": "Guantes Poliuretano Grip",
+    "description": "Alta destreza, recubrimiento PU.",
+    "code": "LIB-MAN-PU1",
+    "price": 1500,
+    "status": true,
+    "stock": 170,
+    "category": "Protección Manos",
+    "thumbnails": ["/img/guante-pu.png"]
+  },
+  {
+    "id": 11,
+    "title": "Arnés 4 Puntos",
+    "description": "Argolla dorsal y frontal, trabajo en altura.",
+    "code": "LIB-ALT-004",
+    "price": 12500,
+    "status": true,
+    "stock": 60,
+    "category": "Protección Altura",
+    "thumbnails": ["/img/arnes-4p.png"]
+  },
+  {
+    "id": 12,
+    "title": "Arnés 5 Puntos con Cinturón",
+    "description": "Argollas laterales, soporte lumbar.",
+    "code": "LIB-ALT-005",
+    "price": 14800,
+    "status": true,
+    "stock": 40,
+    "category": "Protección Altura",
+    "thumbnails": ["/img/arnes-5p.png"]
+  },
+  {
+    "id": 13,
+    "title": "Respirador Semi Facial 7500",
+    "description": "Uso con filtros recambiables para partículas/vapores.",
+    "code": "LIB-RES-7500",
+    "price": 8700,
+    "status": true,
+    "stock": 75,
+    "category": "Protección Respiratoria",
+    "thumbnails": ["/img/respirador-7500.png"]
+  },
+  {
+    "id": 14,
+    "title": "Filtro A1 para Respirador",
+    "description": "Cartucho vapores orgánicos, recambiable.",
+    "code": "LIB-RES-A1",
+    "price": 3200,
+    "status": true,
+    "stock": 200,
+    "category": "Protección Respiratoria",
+    "thumbnails": ["/img/filtro-a1.png"]
+  },
+  {
+    "id": 15,
+    "title": "Botines Dielectric Puntera Acero",
+    "description": "Calzado dieléctrico, seguridad industrial.",
+    "code": "LIB-PIE-BOT",
+    "price": 18500,
+    "status": true,
+    "stock": 55,
+    "category": "Protección Pies",
+    "thumbnails": ["/img/botin-dielec.png"]
+  }
+]

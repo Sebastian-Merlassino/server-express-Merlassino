@@ -1,0 +1,15 @@
+const express = require('express');
+const path = require('path');
+const productsRouter = require('./routes/products.routes');
+const cartsRouter = require('./routes/carts.routes');
+
+const app = express();
+const PORT = 8080;
+
+app.use(express.json());
+app.use('/api/products', productsRouter);
+app.use('/api/carts', cartsRouter);
+
+app.listen(PORT, () => {
+    console.log(`Server is running on http://localhost:${PORT}`);
+});

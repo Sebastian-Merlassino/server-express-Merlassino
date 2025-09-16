@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>EPP Libus - Entrega 2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      color-scheme: light dark;
+    }
+
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      margin: 20px;
+    }
+
+    header {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    nav a {
+      margin-right: .75rem;
+      text-decoration: none;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: .5rem;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+    th {
+      background: #f5f5f5;
+      text-align: left;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: .5rem;
+      margin: 1rem 0;
+      max-width: 700px;
+    }
+
+    input,
+    textarea {
+      padding: .5rem;
+    }
+
+    .row {
+      display: flex;
+      gap: .5rem;
+      flex-wrap: wrap;
+    }
+
+    .muted {
+      color: #666;
+      font-size: .9rem;
+    }
+
+    .ok {
+      color: green;
+    }
+
+    .err {
+      color: #b00020;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Gestión de Productos</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/realtimeproducts">Realtime</a>
+    </nav>
+  </header>
+
+  {{{body}}}
+</body>
+
+</html>

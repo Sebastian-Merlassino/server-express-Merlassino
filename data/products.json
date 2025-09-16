@@ -8,7 +8,9 @@
     "status": true,
     "stock": 120,
     "category": "Protección Cabeza",
-    "thumbnails": ["/img/casco-evolution.png"]
+    "thumbnails": [
+      "/img/casco-evolution.png"
+    ]
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@
     "status": true,
     "stock": 85,
     "category": "Protección Cabeza",
-    "thumbnails": ["/img/casco-vulcano.png"]
+    "thumbnails": [
+      "/img/casco-vulcano.png"
+    ]
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@
     "status": true,
     "stock": 150,
     "category": "Protección Auditiva",
-    "thumbnails": ["/img/orejera-27.png"]
+    "thumbnails": [
+      "/img/orejera-27.png"
+    ]
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@
     "status": true,
     "stock": 110,
     "category": "Protección Auditiva",
-    "thumbnails": ["/img/orejera-30.png"]
+    "thumbnails": [
+      "/img/orejera-30.png"
+    ]
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@
     "status": true,
     "stock": 300,
     "category": "Protección Auditiva",
-    "thumbnails": ["/img/tapones-reutilizables.png"]
+    "thumbnails": [
+      "/img/tapones-reutilizables.png"
+    ]
   },
   {
     "id": 6,
@@ -63,7 +73,9 @@
     "status": true,
     "stock": 200,
     "category": "Protección Ocular",
-    "thumbnails": ["/img/gafas-panorama.png"]
+    "thumbnails": [
+      "/img/gafas-panorama.png"
+    ]
   },
   {
     "id": 7,
@@ -74,7 +86,9 @@
     "status": true,
     "stock": 140,
     "category": "Protección Ocular",
-    "thumbnails": ["/img/gafas-titan.png"]
+    "thumbnails": [
+      "/img/gafas-titan.png"
+    ]
   },
   {
     "id": 8,
@@ -85,7 +99,9 @@
     "status": true,
     "stock": 90,
     "category": "Protección Ocular",
-    "thumbnails": ["/img/gafas-uvx.png"]
+    "thumbnails": [
+      "/img/gafas-uvx.png"
+    ]
   },
   {
     "id": 9,
@@ -96,7 +112,9 @@
     "status": true,
     "stock": 210,
     "category": "Protección Manos",
-    "thumbnails": ["/img/guante-nitrilo.png"]
+    "thumbnails": [
+      "/img/guante-nitrilo.png"
+    ]
   },
   {
     "id": 10,
@@ -107,7 +125,9 @@
     "status": true,
     "stock": 170,
     "category": "Protección Manos",
-    "thumbnails": ["/img/guante-pu.png"]
+    "thumbnails": [
+      "/img/guante-pu.png"
+    ]
   },
   {
     "id": 11,
@@ -118,7 +138,9 @@
     "status": true,
     "stock": 60,
     "category": "Protección Altura",
-    "thumbnails": ["/img/arnes-4p.png"]
+    "thumbnails": [
+      "/img/arnes-4p.png"
+    ]
   },
   {
     "id": 12,
@@ -129,7 +151,9 @@
     "status": true,
     "stock": 40,
     "category": "Protección Altura",
-    "thumbnails": ["/img/arnes-5p.png"]
+    "thumbnails": [
+      "/img/arnes-5p.png"
+    ]
   },
   {
     "id": 13,
@@ -140,7 +164,9 @@
     "status": true,
     "stock": 75,
     "category": "Protección Respiratoria",
-    "thumbnails": ["/img/respirador-7500.png"]
+    "thumbnails": [
+      "/img/respirador-7500.png"
+    ]
   },
   {
     "id": 14,
@@ -151,7 +177,9 @@
     "status": true,
     "stock": 200,
     "category": "Protección Respiratoria",
-    "thumbnails": ["/img/filtro-a1.png"]
+    "thumbnails": [
+      "/img/filtro-a1.png"
+    ]
   },
   {
     "id": 15,
@@ -162,6 +190,8 @@
     "status": true,
     "stock": 55,
     "category": "Protección Pies",
-    "thumbnails": ["/img/botin-dielec.png"]
+    "thumbnails": [
+      "/img/botin-dielec.png"
+    ]
   }
 ]

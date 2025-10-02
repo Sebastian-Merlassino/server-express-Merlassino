@@ -3,17 +3,23 @@ const path = require('path');
 const { createServer } = require('http');
 const { Server } = require('socket.io');
 const { engine } = require('express-handlebars');
+const mongoose = require('mongoose');
 
 const productsRouter = require('./routes/products.routes');
 const cartsRouter = require('./routes/carts.routes');
 const viewsRouter = require('./routes/views.routes');
 
 const ProductManager = require('./managers/productManager');
+const { config } = require('dotenv');
 
 const app = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer);
 app.set('io', io);
+
+mongoose.connect(config.databaseURL || 'mongodb://localhost:27017/ecommerce')
+    .then(() => console.log('MongoDB connected'))
+    .catch(err => console.log(err));
 
 const PORT = 8080;
 
